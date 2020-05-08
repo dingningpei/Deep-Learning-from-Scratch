@@ -8,3 +8,4 @@ DNN
 - Multilayer RNN
 - Multilayer CNN
 - Multilayer Perceptron
+- Multilayer GRU
